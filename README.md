@@ -1,2 +1,2 @@
-# dev-full-stack
-Repositório criado para o curso de pós graduação Desenvolvimento Full Stack da PUCRS
+# Desenvolvimento Full Stack PUCRS
+Repositório criado para o curso de pós graduação de Desenvolvimento Full Stack da PUCRS
