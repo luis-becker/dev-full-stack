@@ -53,7 +53,7 @@ class LinkedList {
         this.count++;
     }
 
-    // removes value of the end of the list and return it
+    // removes value of the end of the list and returns it
     pop(){
         let node = this.last;
         if(this.first===this.last) 
@@ -66,7 +66,7 @@ class LinkedList {
         return node;
     }
 
-    // removes value of the beggining of the list and return it
+    // removes value of the beggining of the list and returns it
     shift() {
         let node = this.first;
         if(this.first===this.last) 
