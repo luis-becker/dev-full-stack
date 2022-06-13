@@ -5,7 +5,7 @@ class LinkedList {
     }
 
     // transforms list to string similar to an array eg.: '[x,y,x]'
-    listToString(){ 
+    toString(){ 
         let s = '';
         let aux = this.first;
         while(aux!=null){
